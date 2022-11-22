@@ -1,0 +1,4 @@
+"controller":"05.text.str.edr","date_time":"2022-10-31T00:24:24.355Z","uuid":"cv454392-7684-399b-8d7e-c8000ce52458","type":"reg","response_time_ms":4,"source_id":"0397","location":"Wellington"
+"controller":"06.text.str.edr","date_time":"2021-11-30T00:24:24.355Z","uuid":"gh675949-7684-348h-8d7e-cjdkfk455838","type":"ton","response_time_ms":3,"source_id":"4573","location":"Tauranga"
+"controller":"07.text.str.edr","date_time":"2020-12-01T00:24:24.355Z","uuid":"hj659504-7684-399b-8d7e-vncm585498sj","type":"mig","response_time_ms":56,"source_id":"0902","location":"Invercargill"
+"controller":"08.text.str.edr","date_time":"2019-12-02T00:24:24.355Z","uuid":"po494933-7684-399b-8d7e-585djdjdcm39","type":"loc","response_time_ms":11,"source_id":"8933","location":"Dargaville"
